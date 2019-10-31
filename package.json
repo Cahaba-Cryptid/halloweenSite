@@ -1,0 +1,26 @@
+{
+  "name": "personal-portfolio",
+  "version": "1.0.0",
+  "description": "My personal portfolio site!",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chfrank206/personal-portfolio.git"
+  },
+  "author": "Hayden Frank",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chfrank206/personal-portfolio/issues"
+  },
+  "homepage": "https://github.com/chfrank206/personal-portfolio#readme",
+  "devDependencies": {
+    "webpack": "^4.39.3",
+    "webpack-cli": "^3.3.8"
+  },
+  "dependencies": {
+    "serve": "^11.2.0"
+  }
+}

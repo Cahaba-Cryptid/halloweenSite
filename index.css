@@ -1,0 +1,62 @@
+
+.theme-color {
+    background-color: black;
+}
+
+.header-footer {
+    margin: 0;
+    padding: 0;
+}
+
+.text-color {
+    color: green;
+}
+
+.main {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.ufo-sign {
+    max-width: 50%;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+.image {
+    max-width: 100%;
+    height: auto;
+    width: auto\9;
+    margin-right: 5px;
+    margin-left: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.anon-mask {
+    max-width: 50%;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+.signature-color {
+    color: rgb(133, 25, 25);
+}
+
+.site-by {
+    color: rgb(187, 187, 14);
+}
+
+hr { display: block; height: 1px;
+    border: 0; border-top: 1px solid orange;
+    margin: 1em 0; padding: 0; }
+
+.disclaim {
+    color: rgb(125, 34, 185);
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
