@@ -25,9 +25,9 @@
 }
 
 .image {
-    max-width: 100%;
+    max-width: 75%;
     height: auto;
-    width: auto\9;
+    width: auto;
     margin-right: 5px;
     margin-left: 5px;
     margin-top: 10px;
@@ -35,7 +35,7 @@
 }
 
 .anon-mask {
-    max-width: 50%;
+    max-width: 75%;
     margin-top: 5px;
     margin-bottom: 10px;
 }
